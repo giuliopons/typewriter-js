@@ -1,5 +1,6 @@
 /**
  * Typing Animation Script
+ * Author: Giulio Pons
  *
  * Works on all elements with class "typewriter".
  * If also with class "fixtypo", simulates random errors and correction.
