@@ -17,3 +17,12 @@ A lightweight JavaScript library to create a typewriter-style text animation wit
 ```html
 <script src="typewriter.js"></script>
 ```
+### 2. Add the typewriter class
+
+```html
+<h1 class="typewriter">Hello, world!</h1>
+```
+
+### 3. Optional classes
+- fixtypo — simulates random typos and corrections.
+- fixheight — locks the element's height before animation starts.
