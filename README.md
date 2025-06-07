@@ -2,6 +2,8 @@
 
 A lightweight JavaScript library to create a typewriter-style text animation with optional typo simulation and automatic looping.
 
+![Demo](assets/example.gif)
+
 ## ✨ Features
 
 - Types text **character by character** with a blinking cursor.
